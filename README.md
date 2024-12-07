@@ -1,2 +1,2 @@
 # CircleDialView
-cicle dial slider view
+cicle dial slider view.
